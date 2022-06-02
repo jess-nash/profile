@@ -68,8 +68,15 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+#introduction .link:hover {
   color: #B97A95;
+  font-size: 15px;
+}
+
+#socials .link:hover {
+  color: #B97A95;
+  font-size: 40px;
+  /* I want the box NOT to grow large when I hover over the icons */
 }
 
 .list-inline {
