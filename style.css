@@ -67,10 +67,17 @@ a {
   color: #F38BA0;
   text-decoration: none;
 }
+#introduction .link {
+  transition: .3s;
+}
 
 #introduction .link:hover {
   color: #B97A95;
   font-size: 15px;
+}
+
+#socials .link {
+  transition: .3s;
 }
 
 #socials .link:hover {
